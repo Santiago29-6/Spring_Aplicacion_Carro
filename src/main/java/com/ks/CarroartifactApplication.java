@@ -1,4 +1,4 @@
-package com.ks.carros.carroartifact;
+package com.ks;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
