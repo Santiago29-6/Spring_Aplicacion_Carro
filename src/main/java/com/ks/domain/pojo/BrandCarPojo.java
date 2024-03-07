@@ -10,7 +10,7 @@ import lombok.*;
 @Getter
 @Setter
 @Entity
-public class MarcaCarroPojo {
+public class BrandCarPojo {
     /**
      * Id de la marca de carro
      */

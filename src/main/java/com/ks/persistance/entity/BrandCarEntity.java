@@ -12,7 +12,7 @@ import jakarta.persistence.Table;
  */
 @Entity
 @Table(name = "marca_carro")
-public class MarcaCarroEntity {
+public class BrandCarEntity {
     
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
